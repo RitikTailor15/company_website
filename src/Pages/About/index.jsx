@@ -18,7 +18,7 @@ const styles = {
 const About = () => {
   return (
     <PageContainer>
-      <PageTitle title="About us" />
+      <PageTitle title="About Us" />
       <Stack gap={3}>
         <Stack direction="row" alignItems="center" gap={5}>
           <Typography variant="body1" sx={styles.body1}>
