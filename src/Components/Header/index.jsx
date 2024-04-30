@@ -3,7 +3,7 @@ import { Link, useNavigate } from "react-router-dom";
 import { Box, AppBar, Toolbar, Typography, Stack } from "@mui/material";
 import AddShoppingCartIcon from "@mui/icons-material/AddShoppingCart";
 
-import Logo from "../Assets/logo.svg";
+import Logo from "../..//Assets/logo.svg";
 
 const Header = () => {
   const navigate = useNavigate();
