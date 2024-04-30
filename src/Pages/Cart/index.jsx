@@ -77,6 +77,7 @@ const Cart = () => {
               borderRadius: "24px",
               width: "fit-content",
               color: "#fff",
+              padding: "10px 20px",
             }}
           >
             Proceed to checkout
